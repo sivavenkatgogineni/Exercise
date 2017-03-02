@@ -7,7 +7,7 @@ There are Four Files within the package and they are as follows:
 
 Steps to Run the project:
 -----------------------------
-1. Git clone git clone https://github.com/sivavenkatgogineni/Exercise.git
+1. git clone https://github.com/sivavenkatgogineni/Exercise.git
 2. cd Exercise/src
 3. javac com/distil/*.java
 4. java com/distil/SimpleThreadPool
