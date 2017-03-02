@@ -5,9 +5,16 @@ There are Four Files within the package and they are as follows:
 3. DomainRecord.java
 4. Result.java
 
-Steps to Run the project:
------------------------------
+Steps to Run the project manually:
+---------------------------------
 1. git clone https://github.com/sivavenkatgogineni/Exercise.git
 2. cd Exercise/src
 3. javac com/distil/*.java
 4. java com/distil/SimpleThreadPool
+
+Steps to Run the project using bat in windows:
+---------------------------------------------
+1. git clone https://github.com/sivavenkatgogineni/Exercise.git
+2. cd Exercise
+3. run.bat
+4. type 'Y' When prompted for "Terminate batch job (Y/N)?"
