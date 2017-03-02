@@ -5,16 +5,33 @@ There are Four Files within the package and they are as follows:
 3. DomainRecord.java
 4. Result.java
 
+Prerequisites:
+----------------
+Assuming java and git are already installed in the machine. If you are not sure then try running the following commands:
+git --version
+java --version
+If these softwares are already installed then you will get a version. Else do install the softwares before provceeding further.
+
 Steps to Run the project manually:
 ---------------------------------
-1. git clone https://github.com/sivavenkatgogineni/Exercise.git
-2. cd Exercise/src
+1. Go to the loaction where you want to clone the project.
+2. git clone https://github.com/sivavenkatgogineni/Exercise.git
+3. cd Exercise/src
 3. javac com/distil/*.java
-4. java com/distil/SimpleThreadPool
+5. java com/distil/SimpleThreadPool
 
 Steps to Run the project using bat in windows:
 ---------------------------------------------
-1. git clone https://github.com/sivavenkatgogineni/Exercise.git
-2. cd Exercise
-3. run.bat
-4. type 'Y' When prompted for "Terminate batch job (Y/N)?"
+1. Go to the loaction where you want to clone the project.
+2. git clone https://github.com/sivavenkatgogineni/Exercise.git
+3. cd Exercise
+4. run.bat
+5. type 'Y' When prompted for "Terminate batch job (Y/N)?"
+
+Steps to Run the project using script in linux:
+---------------------------------------------
+1. Go to the loaction where you want to clone the project.
+2. git clone https://github.com/sivavenkatgogineni/Exercise.git
+3. cd Exercise
+4. ./run.sh 
+Note: If running the script results in Permission denied then give appropriate permissions and try again.
