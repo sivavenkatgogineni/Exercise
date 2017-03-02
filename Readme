@@ -1,0 +1,9 @@
+This project contains all the required class files under the package "com.distil" and all the resources that are required by these class files under "resources" folder.
+There are Four Files within the package and they are as follows:
+1. SimpleThreadPool.java
+2. Csv.java
+3. DomainRecord.java
+4. Result.java
+
+Steps to Run the project:
+1.
