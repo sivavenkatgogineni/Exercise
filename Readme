@@ -1,13 +1,13 @@
-This project contains all the required class files under the package "com.distil" and all the resources that are required by these class files under "resources" folder.
+This project contains all the required class files under the package "com.distil" and "com.distil.bean" and all the resources that are required by these class files are under "resources" folder.
 There are Four Files within the package and they are as follows:
-1. SimpleThreadPool.java : Contains CallableClass  and SimpleThreadPool. 
-   CallableClass  Implements the callable Interface and provides the sub processing capability.
-   SimpleThreadPool has the doTheAggregates and the main class. doTheAggregates method performs the actual aggregations.
+1. DisplayMetrics.java :.
+   DisplayMetrics has the doTheAggregates, helper methods and the main class. doTheAggregates method performs the actual aggregations.
    This class is the entry point to the application.
     
 2. Tsv.java : Helper Class with getter and setter methods.
 3. DomainRecord.java: Helper Class with getter and setter methods.
 4. Result.java: Helper Class with getter and setter methods.
+5. CallableClass  Implements the callable Interface and provides the sub processing capability.
 
 Prerequisites:
 ----------------
@@ -22,7 +22,7 @@ Steps to Run the project manually:
 2. git clone https://github.com/sivavenkatgogineni/Exercise.git
 3. cd Exercise/src
 3. javac com/distil/*.java
-5. java com/distil/SimpleThreadPool
+5. java com/distil/DisplayMetrics
 
 Steps to Run the project using bat in windows:
 ---------------------------------------------

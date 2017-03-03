@@ -1,3 +1,3 @@
 cd src
 javac com/distil/*.java
-java com/distil/SimpleThreadPool
+java com/distil/DisplayMetrics

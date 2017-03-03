@@ -1,4 +1,4 @@
-package com.distil;
+package com.distil.bean;
 
 import java.util.ArrayList;
 import java.util.Date;
