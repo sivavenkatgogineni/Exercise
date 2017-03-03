@@ -1,5 +1,5 @@
 This project contains all the required class files under the package "com.distil" and "com.distil.bean" and all the resources that are required by these class files are under "resources" folder.
-There are Four Files within the package and they are as follows:
+There are Five Files within the packages and they are as follows:
 1. DisplayMetrics.java :.
    DisplayMetrics has the doTheAggregates, helper methods and the main class. doTheAggregates method performs the actual aggregations.
    This class is the entry point to the application.
